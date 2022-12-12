@@ -27,6 +27,6 @@ Available Commands:
 2. Register as new user
 3. Exit
 
+Using Instructions:
 
-Known Issues:
-
+When the code is run, there will be 3 options - to login as a customer or admin, register as a new customer and exit the program. There are 2 interfaces - one for the customer and the other for the admin. Customers can search a book, add to cart, check out and check the status of the order whereas the admin has all the control like to add/remove a book, update the stock and status of a book. All of this can be run with the commands and options like 1 or 2 and so on.
